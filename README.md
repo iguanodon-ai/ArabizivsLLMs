@@ -1,1 +1,1 @@
-# ArabizivsLLMs_LanguageofAladdin
+# ArabizivsLLMs
