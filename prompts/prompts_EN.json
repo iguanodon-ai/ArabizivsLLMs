@@ -1,0 +1,32 @@
+{
+    "ALG_AR": {
+        "no-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects. Translate the following text from the Algerian dialect to Modern Standard Arabic.\n\n\n",
+        "one-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects.\n\n\nSource text: \"Ma 3am efham chu 3am te7ke\"\nTarget text in Arabic: \"لا أفهم ما تقوله\"\n\n\nBased on the example above, translate the following text from the Algerian dialect to Modern Standard Arabic.\n",
+        "two-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects.\n\n\nSource text: \"Ma 3am efham chu 3am te7ke\"\nTarget text in Arabic: \"لا أفهم ما تقوله\"\n\n\nSource text: \"M t7kilich 7yetk kho\"\nTarget text in Arabic: \"لا تقص عليّ قصّة حياتك أخي\"\n\n\nBased on the examples above, translate the following text from the Algerian dialect to Modern Standard Arabic.\n"
+    },
+    "ALG_EN": {
+        "no-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects. Translate the following text from the Algerian dialect to English.\n\n\n",
+        "one-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects.\n\n\nSource text: \"Ma 3am efham chu 3am te7ke\"\nTarget text in English: \"I don't understand what you're saying.\"\n\n\nBased on the example above, translate the following text from the Algerian dialect to English.\n",
+        "two-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects.\n\n\nSource text: \"Ma 3am efham chu 3am te7ke\"\nTarget text in English: \"I don't understand what you're saying.\"\n\n\nSource text: \"M t7kilich 7yetk kho\"\nTarget text in English: \"Don't tell me your life story, bro\"\n\n\nBased on the examples above, translate the following text from the Algerian dialect to Engish.\n"
+    },
+    "EG_AR": {
+        "no-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects. Translate the following text from the Egyptian dialect to Modern Standard Arabic.\n\n\n",
+        "one-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects.\n\n\nSource text: \"Ma 3am efham chu 3am te7ke\"\nTarget text in Arabic: \"لا أفهم ما تقوله\"\n\n\nBased on the example above, translate the following text from the Egyptian dialect to Modern Standard Arabic.\n",
+        "two-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects.\n\n\nSource text: \"Ma 3am efham chu 3am te7ke\"\nTarget text in Arabic: \"لا أفهم ما تقوله\"\n\n\nSource text: \"M t7kilich 7yetk kho\"\nTarget text in Arabic: \"لا تقص عليّ قصّة حياتك أخي\"\n\n\nBased on the examples above, translate the following text from the Egyptian dialect to Modern Standard Arabic.\n"
+    },
+    "EG_EN": {
+        "no-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects. Translate the following text from the Egyptian dialect to English.\n\n\n",
+        "one-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects.\n\n\nSource text: \"Ma 3am efham chu 3am te7ke\"\nTarget text in English: \"I don't understand what you're saying.\"\n\n\nBased on the example above, translate the following text from the Egyptian dialect to English.\n",
+        "two-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects.\n\n\nSource text: \"Ma 3am efham chu 3am te7ke\"\nTarget text in English: \"I don't understand what you're saying.\"\n\n\nSource text: \"M t7kilich 7yetk kho\"\nTarget text in English: \"Don't tell me your life story, bro\"\n\n\nBased on the examples above, translate the following text from the Egyptian dialect to Engish.\n"
+    },
+    "LB_AR": {
+        "no-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects. Translate the following text from the Lebanese dialect to Modern Standard Arabic.\n\n\n",
+        "one-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects.\n\n\nSource text: \"Ma 3am efham chu 3am te7ke\"\nTarget text in Arabic: \"لا أفهم ما تقوله\"\n\n\nBased on the example above, translate the following text from the Lebanese dialect to Modern Standard Arabic.\n",
+        "two-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects.\n\n\nSource text: \"Ma 3am efham chu 3am te7ke\"\nTarget text in Arabic: \"لا أفهم ما تقوله\"\n\n\nSource text: \"M t7kilich 7yetk kho\"\nTarget text in Arabic: \"لا تقص عليّ قصّة حياتك أخي\"\n\n\nBased on the examples above, translate the following text from the Lebanese dialect to Modern Standard Arabic.\n"
+    },
+    "LB_EN": {
+        "no-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects. Translate the following text from the Lebanese dialect to English.\n\n\n",
+        "one-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects.\n\n\nSource text: \"Ma 3am efham chu 3am te7ke\"\nTarget text in English: \"I don't understand what you're saying.\"\n\n\nBased on the example above, translate the following text from the Lebanese dialect to English.\n",
+        "two-shot": "You are a professional Arabic translator with years of experience translating spoken language from various Arabic dialects.\n\n\nSource text: \"Ma 3am efham chu 3am te7ke\"\nTarget text in English: \"I don't understand what you're saying.\"\n\n\nSource text: \"M t7kilich 7yetk kho\"\nTarget text in English: \"Don't tell me your life story, bro\"\n\n\nBased on the examples above, translate the following text from the Lebanese dialect to Engish.\n"
+    }
+}
