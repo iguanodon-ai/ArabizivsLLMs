@@ -1,3 +1,5 @@
+<a href="https://iguanodon.ai"><img src="img/iguanodon.ai.png" width="125" height="125" align="right" /></a>
+
 # ArabizivsLLMs
 
 This is the code for the paper "Arabizi vs LLMs: Can the Genie Understand the Language of Aladdin?" (Al Almaoui, Bouillon, Hengchen), to be published at MT Summit 2025. 
@@ -46,3 +48,10 @@ This is the code for the paper "Arabizi vs LLMs: Can the Genie Understand the La
 
 
 2. Get in touch by email or open an issue if you encounter any issue
+
+
+## License and contact
+
+This code is made available to the public <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">under the permissive CC BY-NC-SA 4.0 license</a>.
+
+ <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
