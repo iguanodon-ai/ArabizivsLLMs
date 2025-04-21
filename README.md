@@ -1,6 +1,6 @@
 <a href="https://iguanodon.ai"><img src="img/iguanodon.ai.png" width="125" height="125" align="right" /></a>
 
-# ArabizivsLLMs
+# ArabizivsLLMs 
 
 This is the code for the paper "Arabizi vs LLMs: Can the Genie Understand the Language of Aladdin?" (Al Almaoui, Bouillon, Hengchen), to be published at MT Summit 2025. 
 
