@@ -13,12 +13,33 @@ This is the code for the paper "Arabizi vs LLMs: Can the Genie Understand the La
 
 **Bibtex**: 
 ```
-@article{almaoui2025arabizi,
-  title={Arabizi vs LLMs: Can the Genie Understand the Language of Aladdin?},
-  author={Al Almaoui, Perla and Bouillon, Pierrette and Hengchen, Simon},
-  journal={arXiv preprint arXiv:2502.20973},
-  year={2025}
+@inproceedings{almaoui-etal-2025-arabizi,
+    title = "{A}rabizi vs {LLM}s: Can the Genie Understand the Language of Aladdin?",
+    author = "Al Almaoui, Perla  and
+      Bouillon, Pierrette  and
+      Hengchen, Simon",
+    editor = {Bouillon, Pierrette  and
+      Gerlach, Johanna  and
+      Girletti, Sabrina  and
+      Volkart, Lise  and
+      Rubino, Raphael  and
+      Sennrich, Rico  and
+      L{\"a}ubli, Samuel  and
+      Volk, Martin  and
+      Espl{\`a}-Gomis, Miquel  and
+      Vandeghinste, Vincent  and
+      Moniz, Helena  and
+      Szoc, Sara},
+    booktitle = "Proceedings of Machine Translation Summit XX: Volume 2",
+    month = jun,
+    year = "2025",
+    address = "Geneva, Switzerland",
+    publisher = "European Association for Machine Translation",
+    url = "https://aclanthology.org/2025.mtsummit-2.4/",
+    pages = "28--41",
+    ISBN = "978-2-9701897-1-8"
 }
+
 ```
 
 ## Getting Started
