@@ -7,7 +7,7 @@ This is the code for the paper "Arabizi vs LLMs: Can the Genie Understand the La
 **Paper abstract**:
 > In this era of rapid technological advancements, communication continues to evolve as new linguistic phenomena emerge. Among these is Arabizi, a hybrid form of Arabic that incorporates Latin characters and numbers to represent the spoken dialects of Arab communities. Arabizi is widely used on social media and allows people to communicate in an informal and dynamic way, but it poses significant challenges for machine translation due to its lack of formal structure and deeply embedded cultural nuances. This case study arises from a growing need to translate Arabizi for gisting purposes. It evaluates the capacity of different LLMs to decode and translate Arabizi, focusing on multiple Arabic dialects that have rarely been studied up until now. Using a combination of human evaluators and automatic metrics, this research project investigates the models’ performance in translating Arabizi into both Modern Standard Arabic and English. Key questions explored include which dialects are translated most effectively and whether translations into English surpass those into Arabic.
 
-**URL**: https://arxiv.org/abs/2502.20973
+**URL**: https://aclanthology.org/2025.mtsummit-2.4/
 
 **Dataset**: https://huggingface.co/datasets/palmaoui/AladdinBench
 
